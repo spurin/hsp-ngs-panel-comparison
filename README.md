@@ -1,13 +1,13 @@
 # hsp-ngs-panel-comparison
 A comparison table for HSP Next Generation Sequence Panel Tests, Pull requests for updates are welcome
 
-|Gene|Genes Therapy|Liverpool Womens|
-| -- |:-----------:| --------------:|
-|ABCD1|✔|-|
-|ABHD12|✔|-|
-|AFG3L2|✔|-|
-|AIMP1|✔|-|
-|ALDH3A2|✔|-|
+| Gene | Genes Therapy | Liverpool Womens |
+| ---- |:-------------:| ----------------:|
+| ABCD1|✔|-|
+| ABHD12|✔|-|
+| AFG3L2|✔|-|
+| AIMP1|✔|-|
+| ALDH3A2|✔|-|
 |ALS2|✔|-|
 |AMPD2|✔|-|
 |ANG|✔|-|
