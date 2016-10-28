@@ -1,8 +1,8 @@
 # hsp-ngs-panel-comparison
 
-A list of genes associated with Hereditary Spastic Paraplegia/Paraparesis and corresponding HSP Panel tests that are offered by private and public institutions.  Some institutes search for the most common gene markers whilst others also include known Genes that exhibit similar symptoms.  YMMV :-)
+A list of genes associated with Hereditary Spastic Paraplegia/Paraparesis and corresponding HSP Panel tests that are offered by private and public institutions.  Some institutes search for the most common gene markers whilst others also include known genes that exhibit similar symptoms.
 
-Pull requests for updates are welcome
+Requests for updates are welcome.  Institute name on the X axis, Gene on the Y axis.
 
 | Gene | Genes Therapy | Liverpool Womens | MNG Labs |
 | ---- |:-------------:| :--------------: | :-------:|
