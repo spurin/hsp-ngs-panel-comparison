@@ -3,11 +3,11 @@ A comparison table for HSP Next Generation Sequence Panel Tests, Pull requests f
 
 | Gene | Genes Therapy | Liverpool Womens |
 | ---- |:-------------:| ----------------:|
-| ABCD1|✔|-|
-| ABHD12|✔|-|
-| AFG3L2|✔|-|
-| AIMP1|✔|-|
-| ALDH3A2|✔|-|
+|ABCD1|✔|-|
+|ABHD12|✔|-|
+|AFG3L2|✔|-|
+|AIMP1|✔|-|
+|ALDH3A2|✔|-|
 |ALS2|✔|-|
 |AMPD2|✔|-|
 |ANG|✔|-|
@@ -123,4 +123,9 @@ A comparison table for HSP Next Generation Sequence Panel Tests, Pull requests f
 |WDR45|✔|-|
 |ZFYVE26|✔|✔|
 |ZFYVE27|✔|✔|
+
+# References
+
+Genes Therapy: http://www.genesandtherapy.com
+Liverpool Women's: http://www.liverpoolwomens.nhs.uk/Health_Professionals/Molecular_Genetics.aspx
 
