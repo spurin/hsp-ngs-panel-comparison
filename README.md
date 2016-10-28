@@ -126,6 +126,6 @@ A comparison table for HSP Next Generation Sequence Panel Tests, Pull requests f
 
 # References
 
-Genes Therapy: http://www.genesandtherapy.com
-Liverpool Women's: http://www.liverpoolwomens.nhs.uk/Health_Professionals/Molecular_Genetics.aspx
+* Genes Therapy: http://www.genesandtherapy.com
+* Liverpool Women's: http://www.liverpoolwomens.nhs.uk/Health_Professionals/Molecular_Genetics.aspx
 
