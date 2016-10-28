@@ -19,7 +19,7 @@ Pull requests for updates are welcome
 |AP4E1|✔|-|✔|
 |AP4M1|✔|-|✔|
 |AP4S1|✔|-|✔|
-|AP5Z1|✔|-|-|
+|AP5Z1|✔|-|✔|
 |ARG1|✔|-|-|
 |ATL1|✔|✔|✔|
 |ATP132A|✔|-|-|
@@ -70,7 +70,7 @@ Pull requests for updates are welcome
 |HSPD1|✔|✔|✔
 |IBA57|✔|-|-|
 |IFIH1|✔|-|-|
-|KIAA0415|-|-|✔|
+|KIAA0415 (See AP5Z1)||||
 |KIAA0196|✔|✔|✔|
 |KDM5C|✔|✔|✔|
 |KIF1A|-|-|✔|
