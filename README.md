@@ -145,7 +145,7 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 * Genes Therapy: http://www.genesandtherapy.com
 * Liverpool Women's: http://www.liverpoolwomens.nhs.uk/Health_Professionals/Molecular_Genetics.aspx
 * MNG Labs: https://mnglabs.com/tests/
-* UK Testing Genetic Network: 
+* UK Testing Genetic Network: http://ukgtn.nhs.uk/find-a-test/search-by-disorder-gene/test-service/hereditary-spastic-paraplegia-20-gene-panel-657/
 
 # To Do
 
