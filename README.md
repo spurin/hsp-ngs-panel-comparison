@@ -9,6 +9,7 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |ABCD1|✔|-|✔|-|
 |ABHD12|✔|-|-|-|
 |ACOX1|-|-|✔|-|
+|ACP33|-|-|-|✔|
 |AFG3L2|✔|-|-|-|
 |AIMP1|✔|-|-|-|
 |ALDH3A2|✔|-|-|-|
@@ -21,25 +22,22 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |AP4S1|✔|-|✔|-|
 |AP5Z1|✔|-|✔|-|
 |ARG1|✔|-|-|-|
-|ATL1|✔|✔|✔|-|
+|ATL1|✔|✔|✔|✔|
 |ATP132A|✔|-|-|-|
 |AUH|✔|-|-|-|
 |B4GALNT1|✔|-|✔|-|
 |BICD2|✔|-|-|-|
-|BSCL2|✔|✔|✔|-|
+|BSCL2|✔|✔|✔|✔|
 |C12ORF65|✔|-|✔|-|
 |C19ORF12|✔|-|-|-|
-|CBAS3|-|-|-|✔|
-|CCHLND|-|-|-|✔|
 |CCT5|✔|-|✔|-|
-|CGL2|-|-|-|✔|
 |CLN8|✔|-|-|-|
 |CLPP|-|-|✔|-|
 |CPT1C|✔|-|✔|-|
 |CSF1R|✔|-|-|-|
 |CYP27A1|✔|-|-|-|
 |CYP2U1|✔|-|✔|-|
-|CYP7B1|✔|✔|✔|-|
+|CYP7B1|✔|✔|✔|✔|
 |DARS2|✔|-|-|-|
 |DDHD1|✔|-|✔|-|
 |DDHD2|✔|-|✔|-|
@@ -48,7 +46,7 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |ERLIN1|✔|-|-|-|
 |ERLIN2|✔|-|✔|-|
 |EXOSC3|✔|-|-|-|
-|FA2H|✔|✔|✔|-|
+|FA2H|✔|✔|✔|✔|
 |FAM126A|✔|-|-|-|
 |FAM134B|✔|-|-|-|
 |FBX07|✔|-|✔|-|
@@ -63,34 +61,29 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |GBA2|✔|-|✔|-|
 |GCH1|✔|-|-|-|
 |GFAP|✔|-|-|-|
-|GJC2|✔|✔|✔|-|
+|GJC2|✔|✔|✔|✔|
 |GLB1|✔|-|-|-|
 |GLTP|✔|-|-|-|
 |HARS2|-|-|✔|-|
 |HEPACAM|✔|-|-|-|
 |HEXA|✔|-|-|-|
-|HLD2|-|-|-|✔|
-|HLD4|-|-|-|✔|
-|HSAS|-|-|-|✔|
 |HSD17B4|✔|-|-|-|
-|HSPD1|✔|✔|✔|-|
+|HSPD1|✔|✔|✔|✔|
 |IBA57|✔|-|-|-|
 |IFIH1|✔|-|-|-|
 |KIAA0415 (See AP5Z1)|||||
-|KIAA0196|✔|✔|✔|-|
+|KIAA0196|✔|✔|✔|✔|
 |KDM5C|✔|✔|✔|-|
 |KIF1A|-|-|✔|-|
 |KIF1C|✔|-|-|-|
-|KIF5A|✔|✔|✔|-|
+|KIF5A|✔|✔|✔|✔|
 |LARS2|-|-|✔|-|
-|L1CAM|✔|✔|✔|-|
+|L1CAM|✔|✔|✔|✔|
 |MARS2|✔|-|✔|-|
-|MASA Syndrome|-|-|-|✔|
-|MAST Syndrome|-|-|-|✔|
 |MFN2|✔|-|-|-|
 |MLC1|✔|-|-|-|
 |MTPAP|✔|-|-|-|
-|NIPA1|✔|✔|✔|-|
+|NIPA1|✔|✔|✔|✔|
 |NT5C2|✔|-|✔|-|
 |OPA1|✔|-|-|-|
 |OPA3|✔|-|✔|-|
@@ -98,15 +91,14 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |PANK2|✔|-|-|-|
 |PDYN|✔|-|-|-|
 |PLA2G6|✔|-|-|-|
-|PLP1|✔|✔|✔|-|
+|PLP1|✔|✔|✔|✔|
 |PNPLA6|✔|✔|✔|-|
-|PMD|-|-|-|✔|
 |POLR3A|✔|-|-|-|
 |POLR3B|✔|-|-|-|
 |PSEN1|-|-|✔|-|
 |PPP2R2B|✔|-|-|-|
 |RAB3GAP2|✔|-|-|-|
-|REEP1|✔|✔|✔|-|
+|REEP1|✔|✔|✔|✔|
 |REEP2|✔|-|✔|-|
 |RNASEH2B|✔|-|-|-|
 |RNASET2|✔|-|-|-|
@@ -118,30 +110,15 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |SLC19A3|-|-|✔|-|
 |SLC25A15|✔|-|-|-|
 |SLC2A1|✔|-|✔|-|
-|SLC33A1|✔|✔|✔|-|
+|SLC33A1|✔|✔|✔|✔|
 |SODI1|✔|-|-|-|
 |SOX10|✔|-|-|-|
-|SPAST|✔|✔|✔|-|
-|SPG2|-|-|-|✔|
-|SPG3A|-|-|-|✔|
-|SPG4|-|-|-|✔|
-|SPG6|-|-|-|✔|
+|SPAST|✔|✔|✔|✔|
 |SPG7|✔|✔|✔|✔|
 |SPG8|-|-|-|✔|
-|SPG10|-|-|-|✔|
 |SPG11|✔|✔|✔|✔|
-|SPG13|-|-|-|✔|
-|SPG15|-|-|-|✔|
-|SPG17|-|-|-|✔|
 |SPG20|✔|✔|✔|✔|
-|SPG21|✔|✔|✔|-|
-|SPG31|-|-|-|✔|
-|SPG33|-|-|-|✔|
-|SPG35|-|-|-|✔|
-|SPG39|-|-|-|✔|
-|SPG42|-|-|-|✔|
-|SPG44|-|-|-|✔|
-|SPG5A|-|-|-|✔|
+|SPG21|✔|✔|✔|✔|
 |SPR|✔|-|-|-|
 |STXBP1|-|-|✔|-|
 |SYNE1|✔|-|-|-|
@@ -160,7 +137,8 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |VCP|✔|-|-|-|
 |VPS37A|✔|-|✔|-|
 |WDR45|✔|-|-|-|
-|ZFYVE26|✔|✔|✔|-|
+|ZEB2|-|-|-|✔|
+|ZFYVE26|✔|✔|✔|✔|
 |ZFYVE27|✔|✔|✔|✔|
 
 # HSP NSP Testing References / Contacts
@@ -168,7 +146,7 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 * Genes Therapy: http://www.genesandtherapy.com
 * Liverpool Women's: http://www.liverpoolwomens.nhs.uk/Health_Professionals/Molecular_Genetics.aspx
 * MNG Labs: https://mnglabs.com/tests/
-* UK Testing Genetic Network: http://ukgtn.nhs.uk/find-a-test/search-by-disorder-gene/test-service/hereditary-spastic-paraplegia-20-gene-panel-657/
+* UK Testing Genetic Network: 
 
 # To Do
 
