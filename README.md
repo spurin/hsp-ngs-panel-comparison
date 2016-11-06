@@ -114,7 +114,6 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |SOX10|✔|-|-|-|
 |SPAST|✔|✔|✔|✔|
 |SPG7|✔|✔|✔|✔|
-|SPG8|-|-|-|✔|
 |SPG11|✔|✔|✔|✔|
 |SPG20|✔|✔|✔|✔|
 |SPG21|✔|✔|✔|✔|
