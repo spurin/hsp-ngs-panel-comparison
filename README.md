@@ -9,7 +9,6 @@ Requests for updates are welcome.  Institute name on the X axis, Gene on the Y a
 |ABCD1|✔|-|✔|-|
 |ABHD12|✔|-|-|-|
 |ACOX1|-|-|✔|-|
-|ACP33|-|-|-|✔|
 |AFG3L2|✔|-|-|-|
 |AIMP1|✔|-|-|-|
 |ALDH3A2|✔|-|-|-|
